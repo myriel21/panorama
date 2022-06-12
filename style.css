@@ -187,13 +187,13 @@ body {
     background-size: cover;
 }
 .wrap #circle .face3 .inner>div:nth-of-type(1) .pic {
-    background-image: url(../img/member1.jpg);
+    background-image: url(member1.jpg);
 }
 .wrap #circle .face3 .inner>div:nth-of-type(2) .pic {
-    background-image: url(../img/member2.jpg);
+    background-image: url(member2.jpg);
 }
 .wrap #circle .face3 .inner>div:nth-of-type(3) .pic {
-    background-image: url(../img/member3.jpg);
+    background-image: url(member3.jpg);
 }
 .wrap #circle .face3 .inner>div .con {
     width: 340px;
@@ -264,7 +264,7 @@ body {
     height: 250px;
     border: 1px solid #bbb;
     box-sizing: border-box;
-    background: rgba(0, 0, 0, 0.3) url(../img/robot.png) no-repeat center 
+    background: rgba(0, 0, 0, 0.3) url(robot.png) no-repeat center 
     center/cover;
     margin-bottom: 50px;
 }
